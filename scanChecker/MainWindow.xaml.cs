@@ -1,6 +1,6 @@
 ﻿using System.Windows;
 
-namespace _scanChecker
+namespace scanChecker
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
